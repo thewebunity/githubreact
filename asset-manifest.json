@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/githubreact/static/css/main.073c9b0a.css",
+    "main.js": "/githubreact/static/js/main.6d9c60ec.js",
+    "static/js/787.be7e37fd.chunk.js": "/githubreact/static/js/787.be7e37fd.chunk.js",
+    "static/media/logo.svg": "/githubreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/githubreact/index.html",
+    "main.073c9b0a.css.map": "/githubreact/static/css/main.073c9b0a.css.map",
+    "main.6d9c60ec.js.map": "/githubreact/static/js/main.6d9c60ec.js.map",
+    "787.be7e37fd.chunk.js.map": "/githubreact/static/js/787.be7e37fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6d9c60ec.js"
+  ]
+}
