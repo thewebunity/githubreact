@@ -11,7 +11,7 @@ root.render(
     <BrowserRouter>
         <Navbar />
         <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/githubreact' element={<Home />} />
         </Routes>
         <Footer />
     </BrowserRouter>
