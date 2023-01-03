@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/githubreact/static/css/main.2a729da6.css",
-    "main.js": "/githubreact/static/js/main.37a16d5e.js",
+    "main.css": "/githubreact/static/css/main.53535808.css",
+    "main.js": "/githubreact/static/js/main.0b34ee29.js",
     "index.html": "/githubreact/index.html",
-    "main.2a729da6.css.map": "/githubreact/static/css/main.2a729da6.css.map",
-    "main.37a16d5e.js.map": "/githubreact/static/js/main.37a16d5e.js.map"
+    "main.53535808.css.map": "/githubreact/static/css/main.53535808.css.map",
+    "main.0b34ee29.js.map": "/githubreact/static/js/main.0b34ee29.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a729da6.css",
-    "static/js/main.37a16d5e.js"
+    "static/css/main.53535808.css",
+    "static/js/main.0b34ee29.js"
   ]
 }
